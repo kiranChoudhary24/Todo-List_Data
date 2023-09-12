@@ -1,0 +1,16 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "task_name": "Angular Application"
+      },
+      {
+        "id": 2,
+        "task_name": "Todo-List"
+      },
+      {
+        "id": 3,
+        "task_name": "Hello World"
+      }
+    ]
+  }
